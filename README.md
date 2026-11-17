@@ -1,6 +1,6 @@
-# PRISMA ARENA — Téléchargements
+# PRISMA ARENA
 
-Combat élémentaire en arène 3D, en ligne (1v1) : Feu, Eau, Terre, Vent.
+Combat élémentaire en arène 3D, en ligne : Feu, Eau, Terre, Vent.
 
 **Télécharger :** ouvre l'onglet [Releases](../../releases/latest) et prends `PRISMA-ARENA-Setup-x.y.z.exe` (Windows 10/11, 64 bits).
 
